@@ -2,7 +2,12 @@
 
 ### About me 
 * Studying Data Science at [ Universidad Austral](https://www.austral.edu.ar/) 📖
-* Programming languages 🧮 -> R & Pyhton
+* Programming languages 🧮
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,r"/>
+    </a>
+  </p>
   
 
 ## Follow me 
