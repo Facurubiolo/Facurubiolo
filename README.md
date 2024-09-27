@@ -1,7 +1,7 @@
-## Hi! I´m Facundo 👋🏼
+# Hi! I´m Facundo 👋🏼
 
-### About me 
-* Studying Data Science at [ Universidad Austral](https://www.austral.edu.ar/) 📖
+### About me:
+* Studying Data Science at [Universidad Austral](https://www.austral.edu.ar/) 📖
 * Programming languages 🧮
   <p align="left">
     <a href="https://skillicons.dev">
@@ -9,8 +9,9 @@
     </a>
   </p>
   
+## Follow me 👇📲
+* Instagram: [facu_rubiolo](https://www.instagram.com/facu_rubiolo/) 
+* LinkedIn: [Facundo Rubiolo](https://www.linkedin.com/in/facundo-rubiolo-72525529a/) 
 
-## Follow me 
- * Instagram: https://www.instagram.com/facu_rubiolo/
- * Linkedin: https://www.linkedin.com/in/facundo-rubiolo-72525529a/
+
 
